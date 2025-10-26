@@ -14,24 +14,11 @@ The system uses a singly linked list to store attendance records. Each record in
 - status: Either "Present" or "Absent"
 - next: Pointer to the next record
 🚀 How to Run
-- Clone the repository:
-git clone https://github.com/your-username/attendance-monitoring.git
 cd attendance-monitoring
 - Compile the code:
 gcc attendance.c -o attendance
 - Run the program:
 ./attendance
-
-
-📋 Menu Options
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
 
 
 📎 Example Usage
